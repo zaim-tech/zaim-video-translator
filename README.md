@@ -6,7 +6,7 @@ Whether you're creating educational content, product demos, tutorials, or storyt
 
 ## Why this project exists
 
-Video is one of the most powerful ways to communicate, but language can limit who can connect with it. This project aims to make content easier to translate, easier to understand, and easier to share across languages and cultures.
+Video is one of the most powerful ways to communicate, but language can limit who can connect with it. This project aims to make content easier to translate, easier to understand, and easier to share [...]
 
 ## What it does
 
@@ -29,6 +29,10 @@ To help turn great video content into accessible content for everyone, no matter
 2. Choose the target language
 3. Run the translation workflow
 4. Review the output and share it with your audience
+
+## Download
+
+[Download Zaim Video Translator for Windows](https://github.com/zaim-tech/zaim-video-translator/releases/download/v0.1/zaim-video-translator.exe)
 
 ## Status
 
