@@ -2,6 +2,10 @@
 
 Zaim Video Translator turns the spoken dialogue in a video into a translated voiceover. This guide is for people using the compiled Windows app; you do not need to install Python or use a command prompt.
 
+## Download
+
+[Download Zaim Video Translator for Windows](https://github.com/zaim-tech/zaim-video-translator/releases/download/v0.1/zaim-video-translator.exe)
+
 ## What you can do
 
 - Translate dialogue into a selected language and create a new video file.
